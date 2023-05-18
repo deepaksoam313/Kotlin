@@ -1,0 +1,4 @@
+package OOPsKotlin
+
+class ClassesAndObjects {
+}
